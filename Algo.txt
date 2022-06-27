@@ -1,0 +1,9 @@
+Decide the pizza place
+Deice what type of pizza I want to order
+Call the pizza place
+Order the pizza
+    4a. Pay over phone
+    4b. Pay at door 
+Wait for delivery
+Greet delivery driver
+See step 4b if necessary
