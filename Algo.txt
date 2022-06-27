@@ -1,5 +1,6 @@
 Decide the pizza place
-Deice what type of pizza I want to order
+    1a. Withing 10 miles 
+Decide what type of pizza I want to order
 Call the pizza place
 Order the pizza
     4a. Pay over phone
