@@ -1,5 +1,5 @@
 Decide the pizza place
-    1a. Withing 10 miles 
+    1a. Within 10 miles 
 Decide what type of pizza I want to order
 Call the pizza place
 Order the pizza
